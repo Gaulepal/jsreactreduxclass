@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class App extends Component {
   render() {
     return (
-      <div>React starter</div>
+      <div>React starter and first test </div>
     );
   }
 }
